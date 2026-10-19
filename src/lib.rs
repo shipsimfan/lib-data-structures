@@ -8,6 +8,7 @@
 #![feature(const_clone)]
 #![feature(const_cmp)]
 #![feature(const_trait_impl)]
+#![feature(const_convert)]
 
 mod id;
 mod packed_map;

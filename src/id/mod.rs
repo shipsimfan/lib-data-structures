@@ -6,8 +6,10 @@ mod clone;
 mod debug;
 mod display;
 mod eq;
+mod from;
 mod get;
 mod hash;
+mod into;
 mod new;
 mod ord;
 
