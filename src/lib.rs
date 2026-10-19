@@ -5,6 +5,9 @@
 #![deny(rustdoc::unescaped_backticks)]
 #![deny(rustdoc::redundant_explicit_links)]
 #![warn(rustdoc::broken_intra_doc_links)]
+#![feature(const_clone)]
+#![feature(const_cmp)]
+#![feature(const_trait_impl)]
 
 mod id;
 mod packed_map;
