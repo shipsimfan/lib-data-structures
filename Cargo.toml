@@ -1,0 +1,9 @@
+[package]
+name = "data-structures"
+description = "Useful data structures library"
+version = "1.0.0"
+edition = "2024"
+authors = ["Lance Hart <me@lancehart.ca>"]
+repository = "https://github.com/shipsimfan/lib-data-structures"
+license = "GPL-3.0-or-later"
+publish = false
