@@ -6,6 +6,7 @@ mod slot;
 
 mod from_iter;
 mod get;
+mod get_disjoint_mut;
 mod index;
 mod insert;
 mod into_iter;

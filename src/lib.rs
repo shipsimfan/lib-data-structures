@@ -9,6 +9,7 @@
 #![feature(const_cmp)]
 #![feature(const_trait_impl)]
 #![feature(const_convert)]
+#![feature(slice_ptr_get)]
 
 mod id;
 mod packed_map;
